@@ -466,7 +466,7 @@ Dropbox : http://dl.dropbox.com/object
     <value>Example :
 https://storageaccountname.blob.core.windows.net/asset-d8a38aa5-68f6-47e3-a780-c9f27fd7a3b3?sv=2015-12-11&amp;sr=c&amp;si=testpolicy&amp;sig=...
 
-Use a SAS locator with the LIST permissio</value>
+Use a SAS locator with the LIST permission</value>
   </data>
   <data name="labelSASListExample.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
