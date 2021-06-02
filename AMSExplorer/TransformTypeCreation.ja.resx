@@ -128,13 +128,88 @@
   <data name="buttonCancel.IconPadding" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="labelSASListExample.Error" xml:space="preserve">
+  <data name="buttonCancel.Text" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="pictureBox4.Error" xml:space="preserve">
     <value />
   </data>
-  <data name="labelSASListExample.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
+  <data name="pictureBox4.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
     <value>MiddleRight</value>
   </data>
-  <data name="labelSASListExample.IconPadding" type="System.Int32, mscorlib">
+  <data name="pictureBox4.IconPadding" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="radioButtonCustomJson.Error" xml:space="preserve">
+    <value />
+  </data>
+  <data name="radioButtonCustomJson.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
+    <value>MiddleRight</value>
+  </data>
+  <data name="radioButtonCustomJson.IconPadding" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="labelNoAssetFilter.Error" xml:space="preserve">
+    <value />
+  </data>
+  <data name="labelNoAssetFilter.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
+    <value>MiddleRight</value>
+  </data>
+  <data name="labelNoAssetFilter.IconPadding" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="pictureBox3.Error" xml:space="preserve">
+    <value />
+  </data>
+  <data name="pictureBox3.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
+    <value>MiddleRight</value>
+  </data>
+  <data name="pictureBox3.IconPadding" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="pictureBox1.Error" xml:space="preserve">
+    <value />
+  </data>
+  <data name="pictureBox1.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
+    <value>MiddleRight</value>
+  </data>
+  <data name="pictureBox1.IconPadding" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="pictureBox2.Error" xml:space="preserve">
+    <value />
+  </data>
+  <data name="pictureBox2.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
+    <value>MiddleRight</value>
+  </data>
+  <data name="pictureBox2.IconPadding" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="radioButtonFaceDetection.Error" xml:space="preserve">
+    <value />
+  </data>
+  <data name="radioButtonFaceDetection.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
+    <value>MiddleRight</value>
+  </data>
+  <data name="radioButtonFaceDetection.IconPadding" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="radioButtonAVAnalyze.Error" xml:space="preserve">
+    <value />
+  </data>
+  <data name="radioButtonAVAnalyze.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
+    <value>MiddleRight</value>
+  </data>
+  <data name="radioButtonAVAnalyze.IconPadding" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="radioButtonEncoding.Error" xml:space="preserve">
+    <value />
+  </data>
+  <data name="radioButtonEncoding.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
+    <value>MiddleRight</value>
+  </data>
+  <data name="radioButtonEncoding.IconPadding" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
   <data name="labelTitle.Error" xml:space="preserve">
@@ -146,6 +221,13 @@
   <data name="labelTitle.IconPadding" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="labelTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 20</value>
+  </data>
+  <data name="labelTitle.Text" xml:space="preserve">
+    <value>HTTP 経由でインポート</value>
+  </data>
   <data name="panel1.Error" xml:space="preserve">
     <value />
   </data>
@@ -153,105 +235,6 @@
     <value>MiddleRight</value>
   </data>
   <data name="panel1.IconPadding" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="label33.Error" xml:space="preserve">
-    <value />
-  </data>
-  <data name="label33.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
-    <value>MiddleRight</value>
-  </data>
-  <data name="label33.IconPadding" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="comboBoxStorage.Error" xml:space="preserve">
-    <value />
-  </data>
-  <data name="comboBoxStorage.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
-    <value>MiddleRight</value>
-  </data>
-  <data name="comboBoxStorage.IconPadding" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="label3.Error" xml:space="preserve">
-    <value />
-  </data>
-  <data name="label3.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
-    <value>MiddleRight</value>
-  </data>
-  <data name="label3.IconPadding" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="textBoxAssetName.Error" xml:space="preserve">
-    <value />
-  </data>
-  <data name="textBoxAssetName.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
-    <value>MiddleRight</value>
-  </data>
-  <data name="textBoxAssetName.IconPadding" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="textBoxAssetFileName.Error" xml:space="preserve">
-    <value />
-  </data>
-  <data name="textBoxAssetFileName.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
-    <value>MiddleRight</value>
-  </data>
-  <data name="textBoxAssetFileName.IconPadding" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="label4.Error" xml:space="preserve">
-    <value />
-  </data>
-  <data name="label4.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
-    <value>MiddleRight</value>
-  </data>
-  <data name="label4.IconPadding" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="groupBox1.Error" xml:space="preserve">
-    <value />
-  </data>
-  <data name="groupBox1.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
-    <value>MiddleRight</value>
-  </data>
-  <data name="groupBox1.IconPadding" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="labelURLFileNameWarning.Error" xml:space="preserve">
-    <value />
-  </data>
-  <data name="labelURLFileNameWarning.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
-    <value>MiddleRight</value>
-  </data>
-  <data name="labelURLFileNameWarning.IconPadding" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="labelExamples.Error" xml:space="preserve">
-    <value />
-  </data>
-  <data name="labelExamples.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
-    <value>MiddleRight</value>
-  </data>
-  <data name="labelExamples.IconPadding" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="textBoxURL.Error" xml:space="preserve">
-    <value />
-  </data>
-  <data name="textBoxURL.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
-    <value>MiddleRight</value>
-  </data>
-  <data name="textBoxURL.IconPadding" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="label1.Error" xml:space="preserve">
-    <value />
-  </data>
-  <data name="label1.IconAlignment" type="System.Windows.Forms.ErrorIconAlignment, System.Windows.Forms">
-    <value>MiddleRight</value>
-  </data>
-  <data name="label1.IconPadding" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
@@ -266,44 +249,7 @@
   <data name="buttonImport.IconPadding" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="buttonCancel.Text" xml:space="preserve">
-    <value>キャンセル</value>
-  </data>
-  <data name="label4.Text" xml:space="preserve">
-    <value>ファイル名 :</value>
-  </data>
   <data name="buttonImport.Text" xml:space="preserve">
     <value>インポート</value>
-  </data>
-  <data name="labelTitle.Text" xml:space="preserve">
-    <value>HTTP 経由でインポート</value>
-  </data>
-  <data name="label33.Text" xml:space="preserve">
-    <value>出力先のストレージ :</value>
-  </data>
-  <data name="labelURLFileNameWarning.Text" xml:space="preserve">
-    <value>警告</value>
-  </data>
-  <data name="label1.Text" xml:space="preserve">
-    <value>HTTP/HTTPS ソースを入力 :</value>
-  </data>
-  <data name="label3.Text" xml:space="preserve">
-    <value>名前 :</value>
-  </data>
-  <data name="groupBox1.Text" xml:space="preserve">
-    <value>アセットの作成</value>
-  </data>
-  <data name="labelExamples.Text" xml:space="preserve">
-    <value>例:
-http://login:password@hostname.com/path
-Amazon : http://awskey:awssecretkey@bucket.s3.amazonaws.com/object
-Dropbox : http://dl.dropbox.com/object
-</value>
-  </data>
-  <data name="labelSASListExample.Text" xml:space="preserve">
-    <value>例:
-https://mediasvcs8gbv2zdblgmj.blob.core.windows.net/asset-d8a38aa5-68f6-47e3-a780-c9f27fd7a3b3?sv=2015-12-11&amp;sr=c&amp;si=testpolicy&amp;sig=vgl5aBUUZ4K%2Buv8V5pLfrR8tJIXYbux5ryaznzPc9nM%3D
-
-LIST パーミッション付きの SAS ロケーターを利用 (AMSE v3.44 以降)</value>
   </data>
 </root>
